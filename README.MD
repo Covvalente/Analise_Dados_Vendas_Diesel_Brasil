@@ -48,6 +48,7 @@ Foram criadas medidas em **DAX** para responder a perguntas de negócio relevant
 **Ranking por Estado:**
 ![Ranking Estados](Prints_do_Projeto/image.png)
 
+
 **Ranking por Cidade:**
 ![Ranking Cidades](Prints_do_Projeto/image-1.png)
 
@@ -85,4 +86,5 @@ Essas informações podem apoiar **planejamento logístico, políticas energéti
 ![GIF do Dashboard](Prints_do_Projeto/MeuvdeoSobreoDashboardFeitocomoClipchamp1-ezgif.com-video-to-gif-converter.gif)
 
 ---
+
 
