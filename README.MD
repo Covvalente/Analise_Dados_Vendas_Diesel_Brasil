@@ -46,10 +46,10 @@ Foram criadas medidas em **DAX** para responder a perguntas de negócio relevant
 * **São Paulo, Rio de Janeiro e Manaus** se destacam como grandes polos econômicos e industriais, com São Paulo liderando tanto o ranking de **estado** quanto de **cidade**.
 
 **Ranking por Estado:**
-![Ranking Estados](image.png)
+![Ranking Estados](Prints_do_Projeto/image.png)
 
 **Ranking por Cidade:**
-![Ranking Cidades](image-1.png)
+![Ranking Cidades](Prints_do_Projeto/image-1.png)
 
 ---
 
@@ -82,6 +82,7 @@ Essas informações podem apoiar **planejamento logístico, políticas energéti
 
 ## 🎬 Demonstração do Dashboard
 
-![GIF do Dashboard](MeuvdeoSobreoDashboardFeitocomoClipchamp1-ezgif.com-video-to-gif-converter.gif)
+![GIF do Dashboard](Prints_do_Projeto/MeuvdeoSobreoDashboardFeitocomoClipchamp1-ezgif.com-video-to-gif-converter.gif)
 
 ---
+
